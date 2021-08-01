@@ -28,9 +28,14 @@ How to increase happiness:
 - Industrial tiles do not want to be near Guilds or the Palace
 
 This is the area of influence (where something is considered near):
-X
+
+![Screenshot from 2021-08-01 17-22-19](https://user-images.githubusercontent.com/9117323/127778288-4cdded70-89b8-469f-b3ed-a1c7a86d1e0e.png)
 
 - An R/T/I tile just needs to be near a single desired tile (for example, having ten clinics near the same residential tile is equivalent to having a single one)
 
 These two are equivalent:
-X
+
+![Screenshot from 2021-08-01 17-23-01](https://user-images.githubusercontent.com/9117323/127778297-eb89ada0-340f-4de9-9517-456797532e70.png)
+
+![Screenshot from 2021-08-01 17-23-21](https://user-images.githubusercontent.com/9117323/127778300-9ad36330-564c-4ea4-a1e0-3cbfc5e8c6c5.png)
+
