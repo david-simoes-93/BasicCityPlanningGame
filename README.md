@@ -9,6 +9,10 @@ Install and run with
 
 Use RIGHT_MOUSE_CLICK to switch between city view and menu view.
 
+![Screenshot from 2021-08-01 17-28-09](https://user-images.githubusercontent.com/9117323/127778324-155412a3-e09c-4b8d-93b8-0ff62589ccc7.png)
+
+![Screenshot from 2021-08-01 17-28-31](https://user-images.githubusercontent.com/9117323/127778331-8119c9b2-335a-41f0-b40e-b26df2ccddb8.png)
+
 Rules:
 - Goal is to maximize happiness
 - River and Road tiles have no fixed amount, you can have as much as you want of each
